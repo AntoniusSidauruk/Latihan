@@ -3,4 +3,5 @@
 -Menjadi fulstack
 -Menjadi terbai
 -berubah dalam keburukan
-tidak mengulangi kesalahan yang sama
+-tidak mengulangi kesalahan yang sama
+-Membuat program sempurna
