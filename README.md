@@ -1,0 +1,2 @@
+# Latihan
+untuk WPU kedepanya
